@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>INDRAJA NAMBIAR</title>
+    <title>&lt;/In/&gt;</title>
     <link>http://indrajanambiar.github.io/</link>
-    <description>Recent content on INDRAJA NAMBIAR</description>
+    <description>Recent content on &lt;/In/&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="http://indrajanambiar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://indrajanambiar.github.io/resume/</link>
+      <pubDate>Wed, 29 Mar 2023 12:49:24 +0530</pubDate>
+      
+      <guid>http://indrajanambiar.github.io/resume/</guid>
+      <description>Name: Indraja Nambiar Date of Birth: 15 Oct 2000
+&amp;hellip;
+You can download my full resume as a PDF file here.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://indrajanambiar.github.io/projects/</link>
+      <pubDate>Wed, 29 Mar 2023 12:40:01 +0530</pubDate>
+      
+      <guid>http://indrajanambiar.github.io/projects/</guid>
+      <description>1. Fake News Detection : Using machine learing models the fake news are dected.
+2. Chatbot for rubber department: chatbot was developed for rubber dep
+3. AI Chatbot: chat bot was developed using rasa
+4. Modeling Credit Wornthiness of Loan Applicants: devepoped a model for finding credit worthiness of loan applicants</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://indrajanambiar.github.io/about/</link>
+      <pubDate>Wed, 29 Mar 2023 12:28:53 +0530</pubDate>
+      
+      <guid>http://indrajanambiar.github.io/about/</guid>
+      <description>My name is Indraja Nambiar , and I am a data analyst with a passion for uncovering insights from complex datasets. As a recent graduate with a Master&amp;rsquo;s degree in Computer Science Specialized in Data Analytics and experience in AI Intern and Data Analyst Intern, I am eager to apply my skills to real-world problems and help businesses make data-driven decisions. My technical skills include proficiency in programming languages such as Python, SQL, and R, as well as experience with data visualization tools such as Tableau and Power BI.</description>
+    </item>
+    
   </channel>
 </rss>
