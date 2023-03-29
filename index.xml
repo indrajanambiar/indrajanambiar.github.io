@@ -7,13 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="http://indrajanambiar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Contact</title>
+      <link>http://indrajanambiar.github.io/contact/</link>
+      <pubDate>Wed, 29 Mar 2023 13:49:35 +0530</pubDate>
+      
+      <guid>http://indrajanambiar.github.io/contact/</guid>
+      <description>Mailid: indrajanambiar@gmail.com Phone No: +91 7012682100 Address: Indraprastham(HO),Perambra(Po), Kozhikode,Kerala, 673525</description>
+    </item>
+    
+    <item>
       <title>Resume</title>
       <link>http://indrajanambiar.github.io/resume/</link>
       <pubDate>Wed, 29 Mar 2023 12:49:24 +0530</pubDate>
       
       <guid>http://indrajanambiar.github.io/resume/</guid>
-      <description>Name: Indraja Nambiar Date of Birth: 15 Oct 2000
-&amp;hellip;
+      <description>Name: Indraja Nambiar Date of Birt: 15 Oct 2000 Skills: Python, SQL, R, PowerBI, Tableau, HTML, CSS, JavaScript, Weka Expertise: Machine Learning, Data Viawalization, Data Modeling, Data Mining Hobbies: Singing, Playing musical instrument(Ukulele),Listening to music
 You can download my full resume as a PDF file here.</description>
     </item>
     
