@@ -12,7 +12,7 @@
       <pubDate>Wed, 29 Mar 2023 13:49:35 +0530</pubDate>
       
       <guid>http://indrajanambiar.github.io/contact/</guid>
-      <description>Mailid: indrajanambiar@gmail.com Phone No: +91 7012682100 Address: Indraprastham(HO),Perambra(Po), Kozhikode,Kerala, 673525</description>
+      <description>Mail id: indrajanambiar@gmail.com Phone No: +91 7012682100 Address: Indraprastham(HO),Perambra(Po), Kozhikode,Kerala, 673525</description>
     </item>
     
     <item>
@@ -31,10 +31,7 @@ You can download my full resume as a PDF file here.</description>
       <pubDate>Wed, 29 Mar 2023 12:40:01 +0530</pubDate>
       
       <guid>http://indrajanambiar.github.io/projects/</guid>
-      <description>1. Fake News Detection : Using machine learing models the fake news are dected.
-2. Chatbot for rubber department: chatbot was developed for rubber dep
-3. AI Chatbot: chat bot was developed using rasa
-4. Modeling Credit Wornthiness of Loan Applicants: devepoped a model for finding credit worthiness of loan applicants</description>
+      <description>1. Fake News Detection : To develop a model which detect and classifies the fake and real news, which is a classic text classification issue.Machine Learning Models Used are Logistic regression, Decision tree, Random forest and KNN.TF-IDF vectorizer is used for feature extraction and tested the efficiency of the classifier using accuracy. The Accuracy, precision, recall, and f1 score of every model is compared, Logistic regression is selected as the best model.</description>
     </item>
     
     <item>
