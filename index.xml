@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&lt;/In/&gt;</title>
+    <title>Indraja Nambiar | Personal Website</title>
     <link>http://indrajanambiar.github.io/</link>
-    <description>Recent content on &lt;/In/&gt;</description>
+    <description>Recent content on Indraja Nambiar | Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="http://indrajanambiar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,7 @@
       <pubDate>Wed, 29 Mar 2023 13:49:35 +0530</pubDate>
       
       <guid>http://indrajanambiar.github.io/contact/</guid>
-      <description>Mail id: indrajanambiar@gmail.com Phone No: +91 7012682100 Address: Indraprastham(HO),Perambra(Po), Kozhikode,Kerala, 673525</description>
+      <description>Mail id: indrajanambiar@gmail.com Address: Indraprastham(HO),Perambra(Po), Kozhikode,Kerala, 673525</description>
     </item>
     
     <item>
@@ -21,7 +21,7 @@
       <pubDate>Wed, 29 Mar 2023 12:49:24 +0530</pubDate>
       
       <guid>http://indrajanambiar.github.io/resume/</guid>
-      <description>Name: Indraja Nambiar Date of Birt: 15 Oct 2000 Skills: Python, SQL, R, PowerBI, Tableau, HTML, CSS, JavaScript, Weka Expertise: Machine Learning, Data Viawalization, Data Modeling, Data Mining Hobbies: Singing, Playing musical instrument(Ukulele),Listening to music
+      <description>Name: Indraja Nambiar Skills: Python, SQL, R, PowerBI, Tableau, HTML, CSS, JavaScript, Weka Expertise: Machine Learning, Data Viawalization, Data Modeling, Data Mining Hobbies: Singing, Playing musical instrument(Ukulele),Listening to music
 You can download my full resume as a PDF file here.</description>
     </item>
     
